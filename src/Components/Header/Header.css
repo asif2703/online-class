@@ -1,0 +1,19 @@
+.text-center h1{
+    color: Red;
+}
+.navbar{
+    background-color: yellowgreen;
+    line-height: 40px;
+   
+}
+.navbar-nav a{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    margin-right: 20px;
+    padding: 10px;
+    
+}
+.navbar-nav a:hover{
+    background-color: brown; 
+}

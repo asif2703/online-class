@@ -1,0 +1,19 @@
+.Courses-container{
+    display: flex;
+}
+.Course-container{
+   width:80%;
+   margin-left: 30px;
+   margin-right:10px;
+   border-right: 2px solid lightgrey;
+
+}
+.Course-container h2{
+    color: white;
+    background-color:red;
+    border: 1px solid;
+    border-radius: 5px;
+    margin:2px;
+    padding:2px;
+    font-size: 25px;
+}
